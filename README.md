@@ -21,5 +21,4 @@ Network Penetration testing with Cyberhub
 
 Follow me on 
 ---------------
-Tw: @s4cript
-Linkedin: on my profile
+Tw: @s4cript , Linkedin: on my profile
