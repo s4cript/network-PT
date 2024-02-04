@@ -119,7 +119,7 @@ SMB
 --script 
 عندنا هذا الargument
 يجي سكربتات مع نفس اداة nmap 
-وتقدر تسوي سكربتاتك الخاصة اكيد وتظيفها بالمسار حق السكرتات الي داخل nmap
+وتقدر تسوي سكربتاتك الخاصة اكيد وتظيفها بالمسار حق السكربتات الي داخل nmap
 
 script to list the supported protocols and dialects of an SMB serve.
 [nmap -p445 --script smb-protocols 10.6.23.230] نحدد انه يفحص بورت معين وبسكربت معين
@@ -131,17 +131,17 @@ script to list the supported protocols and dialects of an SMB serve.
 وهذا السكربت بيطلع لك المجلدات الموجوده والصلاحيات لكل مجلد
 [nmap -p445 --script smb-enum-shares 10.6.23.230]
 
-الحين عشان نشوف ايش اليوزر الموجود في الويندوز
+الحين عشان نشوف ايش اليوزرز الموجودين في الويندوز
 Enumerate the windows users on a target machine
 [nmap -p445 --script smb-enum-users --script-args smbusername=administrator,smbpassword=smbserver_771 10.6.23.230]
 
 هذا عشان نعرف من حاول يدخل الملف يعطيك كذا نظره على الملفات او المجلدات الموجوده كم مره احد حاول يدخل وكم مره واحد حاول يدخل وفشل الخ..
-السكربتات كثيره مره لكن هذب ابرز السكريبتات بما يخص بروتوكول مشاركة الملفات
+السكربتات كثيره مره لكن هذي ابرز السكربتات بما يخص بروتوكول مشاركة الملفات SMB
 
 [nmap -p445 --script smb-server-stats --script-args smbusername=administrator,smbpassword=smbserver_771 10.6.23.230]
 
 هذا سكربت يعطينا حاله كامله عن البورت هذا
-وكذالك الباسورد يعطيك اذا له شروط معينه يعطيك اليوزرز يختصر عليك يعني الي فوق بواحد
+وكذالك الباسورد يعطيك اذا له شروط معينه و يعطيك اليوزرز يختصر عليك يعني الي السكربتات الي فوق بسكربت واحد
 Enumerating available domains on a target machine
 [nmap -p445 --script smb-enum-domains --script-args smbusername=administrator,smbpassword=smbserver_771 10.6.23.230]
 
@@ -150,7 +150,7 @@ Enumerating available domains on a target machine
 [nmap -p445 --script smb-enum-services --script-args smbusername=administrator,smbpassword=smbserver_771 10.6.23.230]
 
 وهذا سكربت يستخدم عشان ينفذ لك امر ls
-داخل المجلدات الي حصلتها ويعطيك الملفات الي بداخله
+داخل المجلدات الي حصلتها ويعطيك الملفات الي بداخل المجلد
 [nmap -p445 --script smb-enum-shares,smb-ls --script-args smbusername=administrator,smbpassword=smbserver_771 10.6.23.230]
 
 الان عرفنا وش يدعم هذا البروتوكول والاصدار
@@ -166,5 +166,6 @@ Enumerating available domains on a target machine
 من اول الدورة الى لاب scan the server 1
 مطلوبه الفديوهات واللابات وكذالك الكويزات
 
-
-@s4cript | @cyberhub | @0xNawaF1
+Tw: @s4cript
+Tw Lecturer: @0xNawaF1
+Tw by: @cyberhub
