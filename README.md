@@ -19,7 +19,7 @@ Network Penetration testing with Cyberhub
 الأولوية للأعلى نقاط في جدول الترتيب
 
 
-Follow me on ..
+Follow me on 
 ---------------
 Tw: @s4cript
 Linkedin: on my profile
