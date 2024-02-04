@@ -17,3 +17,9 @@ Network Penetration testing with Cyberhub
 • الفئة المستهدفة
 طلاب مبادرة سايبرهَب بشرط عدم حصولهم على التدريب المقدم مسبقًا
 الأولوية للأعلى نقاط في جدول الترتيب
+
+
+Follow me on ..
+---------------
+Tw: @s4cript
+Linkedin: on my profile
