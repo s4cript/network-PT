@@ -1,6 +1,6 @@
 # Session 3 (ejpt) - Day 4
 ## Assessment Methodologies part 3
------------------------------------|
+
 
 السلام عليكم ورحمة الله وبركاته
 
@@ -12,7 +12,7 @@ MySQL Recon: Dictionary Attack
 
 راح نبداء باللاب الاول الي هو 
 
-### MySQL Recon: Dictionary Attack
+MySQL Recon: Dictionary Attack
 -----------------------------------|
 
 طبعا هذا اللاب المطلوب نسوي بروت فورس على يوزر الروت عشان نحصل الباسورد
@@ -29,7 +29,7 @@ MySQL Recon: Dictionary Attack
 
 راح نبداء باللاب الثاني الي هو 
 
-### MSSQL: Nmap Scripts
+MSSQL: Nmap Scripts
 -----------------------------------|
 
 طبعا الان بعد مافتحنا اللاب ظاهر لنا التارقت راح نسوي scan
@@ -83,7 +83,7 @@ server= ms-sql-s
 
 راح نبداء باللاب الثاني الي هو 
 
-### Recon:MSSQL: Metasploit
+Recon:MSSQL: Metasploit
 -----------------------------------|
 طبعا نفس الافكار الي قبل لكن باداة مختلفه الي هي MSFconsole
 
@@ -172,19 +172,17 @@ dbadmin , auditor هذي اليوزرات وكذالك الباسورد ظاهر
 
 ###  Assessment Methodologies: Vulnerability Assessment 
 ###  Host & Networking Auditing
---------------------------------------------------------|
-
 
 ---
 
 وراح نبدا في 
 
-### Host & Network Penetration Testing
+Host & Network Penetration Testing
 ---------------------------------------|
 
 طبعا اول لاب معنا فيه هذا الجزء هو اللاب
 
-### Windows: IIS Server DAVTest
+Windows: IIS Server DAVTest
 --------------------------------|
 طبعا هذا ويب سيرفر قديم الان شبه معدوم
 
@@ -242,8 +240,8 @@ C:\flag.txt
 
 طبعا ثاني لاب معنا فيه هذا الجزء هو اللاب
 
-### Windows: IIS Server: WebDav Metasploit
-------------------------------------------|
+Windows: IIS Server: WebDav Metasploit
+---------------------------------------|
 
 طبعا في هذا اللاب راح نطبق نفس الشي لكن باستخدام MSFconsole
 
@@ -292,8 +290,8 @@ C:\flag.txt
 
 طبعا ثالث لاب معنا فيه هذا الجزء هو اللاب
 
-### Windows: SMB Server PSexec
-------------------------------------------|
+Windows: SMB Server PSexec
+----------------------------|
 
 والان نجي لاستغلال الـ SMB
 
@@ -345,8 +343,8 @@ C:\flag.txt
 
 طبعا رابع لاب معنا فيه هذا الجزء هو اللاب
 
-### Windows: Insecure RDP Service
-------------------------------------------|
+Windows: Insecure RDP Service
+------------------------------|
 
 طبعا فكرة بروتوكول RDP
 هو نفس الـ SSH on Linux
@@ -400,8 +398,8 @@ rdp:// = لابد نحدد الخدمة هنا بهذا الطريقة عشان 
 
 طبعا رابع لاب معنا فيه هذا الجزء هو اللاب
 
-### WinRM: Exploitation with Metasploit
-------------------------------------------|
+WinRM: Exploitation with Metasploit
+------------------------------------|
 طبع الان الـ WinRM 
 نفس فكرة الـ RDP 
 لكن command line 
