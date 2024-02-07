@@ -400,6 +400,8 @@ rdp:// = لابد نحدد الخدمة هنا بهذا الطريقة عشان 
 
 WinRM: Exploitation with Metasploit
 ------------------------------------|
+
+
 طبع الان الـ WinRM 
 نفس فكرة الـ RDP 
 لكن command line 
