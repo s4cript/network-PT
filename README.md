@@ -1,5 +1,5 @@
 # Network PT
-Network Penetration testing with Cyberhub
+[Network Penetration testing with Cyberhub.](https://cyberhub.sa/courses/119)
 
 
 • عن البرنامج  
@@ -11,7 +11,7 @@ Network Penetration testing with Cyberhub
 
 • عن مقدم الدورة  
 
-نواف الرويلي
+[نواف الرويلي](https://twitter.com/0xNawaF1)
  طالب شغوف في الامن السيبراني واكتشاف الثغرات و مسابقات CTF  حاصل على عدة CVES و عدة مراكز في مسابقاتCTF و على عدد من الشهادات الاحترافيه في مجال الامن السيبراني ومدرب في مجال الامن السيبراني لدى جامعة الملك سعود وجامعة الامام فيصل 
 
 • الفئة المستهدفة
