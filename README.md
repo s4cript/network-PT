@@ -21,4 +21,5 @@ Network Penetration testing with Cyberhub
 
 Follow me on 
 ---------------
-Tw: @s4cript , Linkedin: on my profile
+Twitter: [Click here.](https://twitter.com/s4cript)  
+Linkedin: [Click here.](https://www.linkedin.com/in/fahad-k-al-obaidallah-891419255/)
