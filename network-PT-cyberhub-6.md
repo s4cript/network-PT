@@ -402,4 +402,4 @@ exploit
 ---
 
 ## Follow us on:  
-Twitter:  (s4cript)[https://twitter.com/s4cript] , (cyberhub)[https://twitter.com/cyberhub] , (0xNawaF1)[https://twitter.com/0xNawaF1]
+Twitter:  [s4cript](https://twitter.com/s4cript) , [cyberhub](https://twitter.com/cyberhub) , [0xNawaF1](https://twitter.com/0xNawaF1)
