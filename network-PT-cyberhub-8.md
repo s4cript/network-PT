@@ -412,7 +412,9 @@ This labs only read because its repeated
 6. Port Scanning & Enumeration - Linux  
 7. Targeting vsFTPd  
 8. Targeting PHP (focus on PHP5.2.4-2 maybe get this lab in the CTF)  
-9. Targeting SAMBA  
+9. Targeting SAMBA
+[هنا طبعا دخلنا قسم جديد]  
+[Host & Network Penetration Testing: Post-Exploitation]  
 10. Enumerating System Information (طبعا هنا اخذنا معلومه انه في حال ماكنت تعرف الـ Architecture تبع النظام وتبي تستغله بتخلي البايلورد 32بت لانه راح يشتغل بكل الحالات سواء كان الجهاز 32بت او 64بت لكن لو خليت البايلود 64بت وكان الجهاز 32بت ماراح يشتغل ففي حال ماكنت تعرف الـ Architecture تختار دائما الـ 32بت لانه بيشتغل في كل الحالات)  
 11. Enumerating Users & Groups  
 12. Enumerating Network Information  
